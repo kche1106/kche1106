@@ -1,5 +1,5 @@
 ###
-<img src="https://capsule-render.vercel.app/api?type=shark&color=e0c2e0&height=150&section=header&text=Kim%20%20Chae%20%20Eun&fontSize=55&fontColor=322b0c" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=BBDEFB&height=150&section=header&text=Kim%20%20Chae%20%20Eun&fontSize=55&fontColor=322b0c" />
 
 <br>
 

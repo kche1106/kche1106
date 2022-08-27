@@ -1,5 +1,5 @@
 ###
-<img src="https://capsule-render.vercel.app/api?type=wave&color=e0c2e0&height=200&section=header&text=Chae%20Eun&fontSize=90&fontColor=322b0c" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=e0c2e0&height=200&section=header&text=Chae%20%20Eun&fontSize=70&fontColor=322b0c" />
 
 <!--
 **kche1106/kche1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,8 +5,8 @@
 
 <h3 align = "center"> ✉️ CONTACT ✉️ </h3>
 <p align = "center">
-            <a href = "mailto:kche011106@gmail.com" />
-            <img src = "https://img.shields.io/badge/-Gmail-lightgrey />
+            <a href="mailto:kche011106@gmail.com">
+            <img src="https://img.shields.io/badge/-Gmail-lightgrey">
 </p>
            
 

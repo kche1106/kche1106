@@ -4,7 +4,15 @@
 <br>
 
 <h3 align = "center"> ✏️ STUDYING ✏️ </h3>
-
+<p align = "center">
+            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp            
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp   
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+            <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+            <img src="https://img.shields.io/badge/MySQL-4479A1-339933?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+            <img src="https://img.shields.io/badge/Android-3DDC84-339933?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+            <img src="https://img.shields.io/badge/iOS-000000-339933?style=flat-square&logo=iOS&logoColor=white"/></a>&nbsp
+</p>
 
 <br>
 

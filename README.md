@@ -9,7 +9,7 @@
             <img src="https://img.shields.io/badge/-Gmail-lightgrey">
             <br>
             <a href="https://blog.naver.com/ol_llob">
-            <img src="https://https://img.shields.io/badge/-Blog-green">            
+            <img src="https://img.shields.io/badge/-Blog-green">            
 </p>
            
 

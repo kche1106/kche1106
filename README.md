@@ -1,6 +1,8 @@
 ###
 <img src="https://capsule-render.vercel.app/api?type=shark&color=e0c2e0&height=150&section=header&text=Kim%20%20Chae%20%20Eun&fontSize=55&fontColor=322b0c" />
 
+https://github-readme-stats.vercel.app/api?username=kche1106)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kche1106/kche1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

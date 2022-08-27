@@ -5,9 +5,9 @@
 
 <h3 align = "center"> ✉️ CONTACT </h3>
 
-<p>
-<a href = "mailto:kche011106@gmail.com">
-<img src = "https://img.shields.io/badge/-Gmail-lightgrey>
+<p align = "center">
+            <a href = "mailto:kche011106@gmail.com">
+            <img src = "https://img.shields.io/badge/-Gmail-lightgrey>
 </p>
             
 ![kche1106's github stats](https://github-readme-stats.vercel.app/api?username=kche1106&show_icons=true&theme=gruvbox)

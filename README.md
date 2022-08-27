@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kim Chae Eun 👩🏻‍💻
 
 <!--
 **kche1106/kche1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

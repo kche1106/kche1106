@@ -1,14 +1,20 @@
 ###
 <img src="https://capsule-render.vercel.app/api?type=shark&color=e0c2e0&height=150&section=header&text=Kim%20%20Chae%20%20Eun&fontSize=55&fontColor=322b0c" />
 
+<br>
+
 <h3 align = "center"> ✏️ STUDYING ✏️ </h3>
+
+
+<br>
 
 <h3 align = "center"> ✉️ CONTACT ✉️ </h3>
 <p align = "center">
             <a href="mailto:kche011106@gmail.com">
             <img src="https://img.shields.io/badge/-Gmail-lightgrey">
             <a href="https://blog.naver.com/ol_llob">
-            <img src="https://img.shields.io/badge/-Blog-green">            
+            <img src="<img src="https://img.shields.io/badge/green?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
+">            
 </p>
            
 

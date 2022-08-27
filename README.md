@@ -11,10 +11,10 @@
 <h3 align = "center"> ✉️ CONTACT ✉️ </h3>
 <p align = "center">
             <a href="mailto:kche011106@gmail.com">
-            <img src="https://img.shields.io/badge/-Gmail-lightgrey">
+            //<img src="https://img.shields.io/badge/-Gmail-lightgrey">
+            <img src="https://img.shields.io/badge/green?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp           
             <a href="https://blog.naver.com/ol_llob">
-            <img src="<img src="https://img.shields.io/badge/green?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
-">            
+            <img src="https://img.shields.io/badge/-Blog-green">        
 </p>
            
 

@@ -25,7 +25,6 @@
 </p>
 <br><br><br>
 
-![kche1106's github stats](https://github-readme-stats.vercel.app/api?username=kche1106&show_icons=true)
 [![kche1106's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kche1106&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kche1106)
            
 
